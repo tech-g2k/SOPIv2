@@ -1,11 +1,9 @@
 - title: Onboard
-  #url: spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/edit#gid=1842073324
   url: spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/
   desc: Onboard a new student, enter the student's name and personal email address.
   icon: book
 
 - title: Assessor Notes
-  #url: document/d/1E5ogqFxtFxnkjFMllCTlUYRnJVZV8N8t/edit#heading=h.gjdgxs
   url: document/d/1E5ogqFxtFxnkjFMllCTlUYRnJVZV8N8t/
   desc: Printout this assessor notes document before assessing the student.
   icon: clipboard
