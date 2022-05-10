@@ -32,3 +32,4 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_theme:  "#0081ff"
 color_text:  "#fff"
 
+google_doc: https://docs.google.com/
