@@ -1,6 +1,6 @@
 - title: Onboard
   url: spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/
-  desc: Onboard a new student, enter the student's name and personal email address.
+  desc: Onboard a new student, enter the student's email address and if needed enter their name also.
   icon: book
 
 - title: Assessor's Notes
