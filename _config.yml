@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SOPI
+title: G2K SOPI
 author: G2K Tech
 url: https://sopi.gateway2khmer.com/ # root address of the site
 description: > # description of the site (multiple lines allowed)
